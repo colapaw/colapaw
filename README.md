@@ -10,3 +10,8 @@
 - 🔑 GPG key hosted here at [GitHub](https://github.com/tenchar.gpg) and also [Keybase](https://keybase.io/tenchar/pgp_keys.asc), see [Keybase proof](https://gist.github.com/tenchar/c1e161045ab963387b29763061692234).
 - 📫 Email me at: [tenchar@outlook.com](mailto:tenchar@outlook.com)
 - 💰Support my work on [爱发电](https://afdian.net/@tenchar)！
+
+<!--START_SECTION:waka-->
+```text
+```
+<!--END_SECTION:waka-->
