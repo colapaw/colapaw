@@ -1,4 +1,6 @@
-### Hi, I'm Charlie 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+
+<p>Welcome to my page! I'm Charlie, a Fullstack developer.
 
 ![status](https://img.shields.io/badge/status-up-brightgreen)
 ![](https://komarev.com/ghpvc/?username=tenchar&label=Profile%20views&color=0e75b6&style=flat)
@@ -11,6 +13,8 @@
 - 📫 Email me at: [tenchar@outlook.com](mailto:tenchar@outlook.com)
 - 💰Support my work on [爱发电](https://afdian.net/@tenchar)！
 
+<details>
+  <summary>:zap: Recent Coding Activity</summary>
 <!--START_SECTION:waka-->
 
 ```text
@@ -25,3 +29,4 @@ Groovy                                 ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
+</details>
