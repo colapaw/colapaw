@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! I'm Charlie, a Fullstack developer.
+<p>Welcome to my page! I'm ColaPaw, a Fullstack developer.
 
 ![status](https://img.shields.io/badge/status-up-brightgreen)
 ![](https://komarev.com/ghpvc/?username=colapaw&label=Profile%20views&color=0e75b6&style=flat)
@@ -9,9 +9,18 @@
 
 - 👯 Building [Tyrocasts.com](https://tyrocasts.com) and more.
 - ⚡ TypeScript / JavaScript / PHP / Java. Next.js / Serverless. React / Vue / Koa.
-- 🔑 GPG key hosted here at [GitHub](https://github.com/colapaw.gpg) and also [Keybase](https://keybase.io/colapaw/pgp_keys.asc), see [Keybase proof](https://gist.github.com/colapaw/c1e161045ab963387b29763061692234).
-- 📫 Email me at: [hello@colapaw.com](mailto:hello@colapaw.com)
 - 💰Support my work on [爱发电](https://afdian.net/@colapaw)！
+
+
+### 📫 How to reach me:
+
+- Website: [colapaw.com](https://colapaw.com/)
+- Email: [hi@colapaw.com](mailto:hi@colapaw.com)
+- Twitter: [@colapawio](https://twitter.com/colapawio)
+
+You can also ask me a question on my [Public AMA](https://github.com/colapaw/colapaw/discussions/new?category=ama)
+
+My PGP Public Key: [`747A 2108 3352 BEE7`](https://keybase.io/colapaw/pgp_keys.asc)
 
 <details>
   <summary>:zap: Recent Coding Activity</summary>
