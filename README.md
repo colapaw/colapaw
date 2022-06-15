@@ -27,7 +27,7 @@ My PGP Public Key: [`747A 2108 3352 BEE7`](https://keybase.io/colapaw/pgp_keys.a
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 May 2022 - To: 13 June 2022
+From: 15 May 2022 - To: 14 June 2022
 
 HTML                             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   45.01 %
 JavaScript                       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   42.92 %
