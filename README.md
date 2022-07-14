@@ -14,7 +14,7 @@
 
 ### 📫 How to reach me:
 
-- Website: [colapaw.com](https://colapaw.com/)
+- Website: [colapaw.com](https://erthinking.com/)
 - Email: [hi@colapaw.com](mailto:hi@colapaw.com)
 - Twitter: [@colapawio](https://twitter.com/colapawio)
 
